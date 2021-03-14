@@ -5,10 +5,10 @@ var data = {
     // -------------------------------------------------
     // Greetings config. Change greetings from here
 
-    g1: "おやすみなさい", // From 23:00 to 5:00
-    g2: "おはようございます", // Until 12:00
-    g3: "こんにちは", // Until 17:00
-    g4: "おやすみなさい", // Rest of the time
+    g1: "No wisdom, no gain.", // From 23:00 to 5:00
+    g2: "Have a mega productive, spacial and electronic day.", // Until 12:00
+    g3: "How did it go? Remember, the force is with you.", // Until 17:00
+    g4: "I'm the wolf.", // Rest of the time
 
     // Font size of the greeting
     greeting_fontsize: "40px",
@@ -29,7 +29,7 @@ var data = {
     // Change image proprieties from here
 
     // Border radius: set it to 50% to create a circle
-    image_radius: "0",
+    image_radius: "50%",
     // Border for the image
     image_border: "0px solid",
     // Color of the border
@@ -45,6 +45,6 @@ var data = {
 
     // -------------------------------------------------
     // Page title
-    title: "ここから始める"
+    title: "Home"
 
 }
