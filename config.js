@@ -29,7 +29,7 @@ var data = {
     // Change image proprieties from here
 
     // Border radius: set it to 50% to create a circle
-    image_radius: "50%",
+    image_radius: "0%",
     // Border for the image
     image_border: "0px solid",
     // Color of the border
